@@ -18,11 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in biomedical informatics in [Dr. Yuan Luo's lab](https://labs.feinberg.northwestern.edu/luolab/) under Feinberg School of Medicine at Northwestern University in Chicago, IL. I am interested in the applications of machine learning in medicine, and my thesis focuses specifically on 1) risk stratification of breast cancer using patient genomic data, and 2) finding clues for treatment optimzation for breast cancer using real-life EHR data. I am also passionate about topics of reproducibility, generalizability and fairness of ML in the biomedical and clinical space. 
+I am a PhD student in biomedical informatics in [Dr. Yuan Luo's lab](https://labs.feinberg.northwestern.edu/luolab/) under [Feinberg School of Medicine](https://www.feinberg.northwestern.edu/) at Northwestern University in Chicago, IL. I am interested in the applications of machine learning in medicine, and my thesis focuses specifically on 1) risk stratification of breast cancer using patient genomic data, and 2) finding clues for treatment optimzation for breast cancer using real-life EHR data. I am also passionate about topics of reproducibility, generalizability and fairness of ML in the biomedical and clinical space. 
 
 Outside of research, I work part-time as a HPC Research Computing Consultant to assist the university's diverse community of researchers with their HPC needs. I also enjoy nurturing social communities, and serve in several student organizations including Northwestern University's official Japanese Graduate Student Organization and the [Japanese Graduate Student Across the United States](https://gakuiryugaku.net/). 
 
-In my free time, I love to cook, eat, travel, and read. Check out my book blog for my recent picks! 
+In my free time, I love to cook, eat, travel, and read. Check out my [book blog](https://sayadennis.github.io/blog/) for my recent picks! 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
