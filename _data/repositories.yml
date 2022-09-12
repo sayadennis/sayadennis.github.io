@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sayadennis
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sayadennis/classical_ml
+  - sayadennis/amppd
+  - sayadennis/bbcar
+  - sayadennis/recent_parity
+  - sayadennis/drug_response
