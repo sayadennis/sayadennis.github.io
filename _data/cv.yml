@@ -11,16 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD (in progress)
+    - title: PhD in Biomedical Informatics
       institution: Northwestern University, Chicago, IL, USA
       year: 2024 (exp.)
-      description:
-        - Biomedical Informatics
-    - title: BS
+    - title: BS in Environmental Sciences & Ecology
       institution: Tokyo University, Tokyo, Japan
       year: 2017
-      description:
-        - Environmental Sciences & Ecology
 
 - title: Professional Experience
   type: time_table
@@ -96,7 +92,7 @@
       description:
         - Raised awareness of the needs of marginalized women by holding educational book clubs
         - Facilitated discussions about marginalization between students from diverse backgrounds 
-        
+
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
