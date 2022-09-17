@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The End of Your Life Book Club / 人生の終わりのブッククラブ
-date:   2022-07-10 12:00:00
+date:   2022-07-31 12:00:00
 description: Meditaion on life and on books
 tags: english-books nonfiction
 categories: books
@@ -55,6 +55,7 @@ Lastly, there was one passage that really spoke to me. It's a passage about a mo
 
 <blockquote>
     And then something occurred to me. "You know: the thing about our book club is that we've really been in it all our lives." 
+
     Mom agreed but pointed out that she'd been doing the same with others too––talking about books with my sister and brother and some of her friends. "I guess we're all in it together," she said. And I couldn't help but smile at the other meaning of the phrase. We're all in the end-of-our-life book club, wheter we acknowledge it or not; each book we read may well be the last, each covnversation the final one. 
 </blockquote>
 
@@ -64,11 +65,17 @@ The end of this passage brings to light that, we're actually all moving towards 
 
 <blockquote>
     そこで私は気づきました。
+
     「お母さん、今気づいたんだけど、こののブッククラブって、私の物心ついたときからやってたみたいなものだよね。」
+
     母はそうだね、と言ったものの、
+
     「まあ、そう言ってしまえば私は他の親戚や友達とも同じことをしていたけれどね。」
+
     と、付け加えました。
+
     「みんなやってるブッククラブ、ってことかな。」
+    
     母のこの言葉に私は自然と笑顔になりました。きっと母の意図は違ったのだろうけれど、私には、「みんな、人生の終わりのブッククラブ、やってるってことだよね」という意味に響いたからです。人生いつ何が起こるかわからないもの。今読んでいる本が人生最後の本かもしれないし、今話している相手との会話が最後の会話になるかもしれないのは、闘病している母も、健康な私も、実はみんな同じこと。そう母が言っているように感じたのです。
 </blockquote>
 
