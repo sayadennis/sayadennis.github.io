@@ -22,14 +22,10 @@ The Hyper Hardboiled Gourmet Report is a TV documentary series that first aired 
 So what is the documentary about? I believe it's best described in the book's preface: 
 
 <blockquote>
-    "What kind of food are people eating in areas of the world with extreme circumstances?" 
-
-    There is only one slogan for this show: Dive headfirst into areas of the world that cannot be reached under normal circumstances, and document the everyday meals of people who live there. Yes, it's rude, and yes, it's meretricious. 
-
-    However, as harsh and extreme as their living conditions are, I found that their meals were often also overflowing with extreme levels of beauty. 
-
-    Food stands as an emblem for people's lives, representing the culture, religion, economy, geography, upbringing, and personality of the eater. Yet the expression you see on someone's face as they take a bite of their meal is nothing but universal: pure bliss, relief, hope, and sometimes despair. 
-
+    "What kind of food are people eating in areas of the world with extreme circumstances?" <br>
+    There is only one slogan for this show: Dive headfirst into areas of the world that cannot be reached under normal circumstances, and document the everyday meals of people who live there. Yes, it's rude, and yes, it's meretricious. <br>
+    However, as harsh and extreme as their living conditions are, I found that their meals were often also overflowing with extreme levels of beauty. <br>
+    Food stands as an emblem for people's lives, representing the culture, religion, economy, geography, upbringing, and personality of the eater. Yet the expression you see on someone's face as they take a bite of their meal is nothing but universal: pure bliss, relief, hope, and sometimes despair. <br>
     Humans eat. This is beyond the question of right or wrong. [...] This is why food can show us the whole world. 
 </blockquote>
 
@@ -54,12 +50,9 @@ However, after reading about the day that the author spent with this person, the
 "What are people eating?" - The starting point of this book is a simple question, yet the author tackles much bigger themes through his journey like ethics (e.g. Is it bad to steal if that's your only shot at eating for the day?) and religion. (e.g. What differentiates a cult from a religion? What is religion anyway??) One such question that echoes throughout the book, in my opinion, was the role of journalism. Let me quote an excerpt from the postscript: 
 
 <blockquote>
-    As a journalist, I meet people through my camera. But the camera is nothing but a medium - once I develop a relationship with the interviewee, we are nothing but two humans in the flesh. There's no room in between us for anything like "the obligations of the media" or "the role of TV". All that goes out the window. 
-
-    Interviewing someone for journalism is violence. We cannot forego this fundamental fact. A camera is like a gun, and a pen is like a knife. If we do not use them carefully, it is extremely easy to hurt someone. 
-
-    A camera can catch a shoplifter, and a pen can expose wrongdoings of authority. People say that's the mission of journalism, and it's probably true. 
-
+    As a journalist, I meet people through my camera. But the camera is nothing but a medium - once I develop a relationship with the interviewee, we are nothing but two humans in the flesh. There's no room in between us for anything like "the obligations of the media" or "the role of TV". All that goes out the window. <br>
+    Interviewing someone for journalism is violence. We cannot forego this fundamental fact. A camera is like a gun, and a pen is like a knife. If we do not use them carefully, it is extremely easy to hurt someone. <br>
+    A camera can catch a shoplifter, and a pen can expose wrongdoings of authority. People say that's the mission of journalism, and it's probably true. <br>
     However, shoplifters and authority are also humans, just like you and me. No matter how much your interviews are in line with social justice, if it negatively affects the person's life, I still believe it's violence. Social justice can be a pardoner of the act, but the act remains violence. 
 </blockquote>
 
