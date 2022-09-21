@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  吾輩は猫である / I Am a Cat
+title:  吾輩は猫である
 date:   2022-07-10 12:00:00
 description: Reading modern Japanese literature
-tags: japanese-books history fiction
+tags: japanese history fiction
 categories: books
 ---
 
@@ -15,23 +15,19 @@ categories: books
 
 <hr>
 
-## 読むに至った経緯 / How I came across it
+## 読むに至った経緯
 
 最近、称して"日本の文豪読書プロジェクト"というものを始めました。明確なきっかけは覚えていないのですが、ここ数年で歴史と文芸への関心がどんどん熱くなっていたので、歴史と文芸を組み合わせて日本の近代文学を読もうという気持ちになったというのがボンヤリした背景。学校の教科書で習った森鴎外や、地元ゆかりの泉鏡花の作品をいくつか読んだ後、ついに日本人なら誰もが知っている夏目漱石の作品を読み始めました。
 
-A few months ago, I put together a list of historical Japanese writers from late-19th to early 20th centry, whose work I hoped to read and learn more about. These were writers whose names I knew, but had only read a couple of their works at best, often just for class assignments. I don't remember the exact reason why I wrote up this list in the first place, but maybe it was long time coming, since I've been nurturing a passion for history and literature for the past couple of years. It was only natural to combine the two and enjoy historical literature. Natsume Soseki was one that easily made the list. He is one of the most famous writers of all time, perhaps with the help of his face being printed on the ¥1000 (~$10) bill. (This was certainly how I first learned about him lol.) 
-
 <hr>
 
-## 本の概要 / Setup and significance
+## 本の概要
 
 夏目漱石を知っている人なら必ず知っている「吾輩は猫である」。この作品、漱石の処女小説だということはご存知でしょうか？もとは第一回の読み切り短編作品として掲載されたそうですが、好評で連載となり、最終的に今私たちの読んでいる小説のフォーマットになったみたいです。（Wikipedia情報）当時の激動の時代を風刺した作品で、西洋の価値観を鵜呑みにする日本社会へ警鐘を鳴らす内容という解釈が主流のようです。（違ってたらごめんなさい）
 
-Soseki's debut novel titled I Am a Cat is one of his most famous works. The story is narrated in the perspective of a cat, living with a man who teaches English for a living. The cat makes observations, often comical, about its owner's behaviors with the intelligence of a well-educated human, although the humans don't suspect a thing, assuming that the cat does not understand any of their "higher-animal" matters. The book is a sattire on Japanese society at the time (1905), which was going through levels of changes that are unimaginable in our current world - Japan was a "closed country" between 1639 and 1854, meaning everyday people had very little knowledge or influence of the west.  Then came the Americans with their big guns, demanding to open up lol, which led to a sudden inpour of western culture and its associated values. Soseki portrayed the volatile blending of western and Japanese cultures as well as cautioned against hastily throwing out traditional Japanese values to then blindly accept new western values without questioning. 
-
 <hr>
 
-## 印象に残った部分 / Parts that I enjoyed  
+## 印象に残った部分
 
 「吾輩は猫である」をフルで読んだのはこれが初めてだったのですが、個人的に印象に残ったのは、高いエンターテインメント性を持った滑稽さ。「吾輩」が飼い主である珍野苦沙弥（英語教師）の、ちょっとずるかったり高慢ちきだったり怠け者だったり頑固だったりする、なんとも人間らし〜い側面を、日々の行動や訪れる友人・親戚との会話を観察しながら語っていくのです。例えば、第１章のこの観察。
 
@@ -49,26 +45,8 @@ Soseki's debut novel titled I Am a Cat is one of his most famous works. The stor
     それだけ個人が強くなった。個人が平等に強くなったから、個人が平等に弱くなった訳になる。人がおのれを害することができにくくなった点において、確かに自分は強くなったのだが、滅多に人のみの上に手出しがならなくなった点においては、明らかに昔より弱くなったんだろう。強くなるのは嬉しいが、弱くなるのは誰もありがたくないから、人から一毫（いちごう）も犯されまいと、強い点をあくまで固守すると同時に、せめて半毛（はんもう）でも人を侵（おか）してやろうと、弱いところは無理にでも拡（ひろ）げたくなる。こうなると人と人の間に空間がなくなって、生きてるのが窮屈になる。できるだけ自分を張りつめて、はち切れるばかりにふくれかえって苦しがって生存している。苦しいから色々の方法で個人と個人との間に余裕を求める。
 </blockquote>
 
-What I enjoyed the most about this work was the cat's humorous observations of the humanly behaviors of its owner. The cat is always there to witness and make comments (to the reader) when the owner is a little greedy, snobbish, lazy, jealous, or stubborn. For example, here's a (completely amateur and probably terrible translation of an) exerpt from the first chapter: 
-
-<blockquote>
-    I don't see my owner very often. I hear that he is a teacher. When he gets back from work, he locks himself in his study and doesn't come out. Family members think he is quite hard-working, and he thinks that he is quite hard-working himself. However, he's actually not the hard worker that they think he is. When I sneak into his study, I often catch him sleeping at his desk. Sometimes he is drooling on an open book that he was presumably reading. Also, he has a bad stomach and suffers from indigestion. In spite of this, he often helps himself to a heaping portion of a meal. And he takes stomach medicine afterwards. Then he opens up a book to read, but gets drousy after a few pages. So he starts drooling on the pages again. This is his nightly routine. I know I am just a cat, but I often think to myself: how easy must life be as a teacher! If I were ever reborn as human, I would certainly become a teacher myself. If all this sleeping is what teachers do, cats could very well become teachers as well. Nevertheless, my owner claims that nothing is harder than being a teacher, and doesn't cease to complain to his friends whenever they are over. 
-</blockquote>
-
-Is it just me that sympathizes greatly with the owner?! lol... I found it cathartic and highly entertaining to read the snarky but matter-of-fact comments by the cat that describes the stupid behaviors that I sometimes find myself doing. In my opinion, these comically irrational behaviors are very human. It also brought me joy to learn that people from 100 years ago struggled with laziness the same way that I do today. (When I spoke to a friend about this, they actually found this discouraging, as their takeaway was that humans haven't made progress. Interesting how people see it differently! My personal takeaway was my connection to humanity beyond time, which was uplifting.) 
-
-Another funny element was how, for example, the cat loves to make snarky comments about any snobbishness of its owner, while he himself is also fairly snobbish in the reader's meta-perspective. I felt that this gives us perspective on how we often comment on others while turning a blind eye to our own faults! 
-
-I did find the commentary on the westernization of Japan intriguing as well.  For example, here is a passage from the teacher's friend's monologue towards the end of the book. Regarding the spread of individualism through westernization:
-
-<blockquote>
-    So the individual became much stronger. But since everyone became equally stronger, this means that everyone became equally weaker. You are stronger in that other people cannot interfere with you, but you are weaker in that you cannot interfere with others. Everyone likes getting stronger but no one likes getting weaker, so people desperately protect their personal space from interference, while attempting to covering for their weak parts by trying to interfere with others'. This leaves no space between people, and things get cramped up. The individuals expand their personal space as much as possible, leaving themselves suffering on the verge of bursting. 
-</blockquote>
-
 <hr>
 
-## 終わりに / Conclusion
+## 終わりに
 
 誰もが聞いたことのある「吾輩は猫である」の感想記事、どうでしたでしょうか？私個人的には、声を出して笑ってしまうようなエンターテイメント性の高さと、真剣に考えに耽ってしまうような社会風刺を兼ね備えた作品だったなと感じました。偉大な批評家の方とかがきっとたくさん既に解釈とかされているであろう作品の感想を書くのは恐れ多いですが、客観的な批評というよりは私が個人的に感じたことを書いてみたまでなのでお許し願います（笑）
-
-I hope you enjoyed my summary and thoughts on Soseki's I Am a Cat! I felt the novel definitely lives up to its reputation. It was a novel in which the humorous sattire that makes you laugh out loud coexist with the sharp societal sattire that leaves you in contemplation. I hope to write more about his other works so stay tuned!
