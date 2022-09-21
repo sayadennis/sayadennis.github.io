@@ -2,7 +2,7 @@
 layout: post
 title:  吾輩は猫である
 date:   2022-07-10 12:00:00
-description: Reading modern Japanese literature
+description: 日本の文豪読書プロジェクト
 tags: japanese history fiction
 categories: books
 ---
