@@ -3,7 +3,7 @@ layout: post
 title: Exhalation
 date:   2022-09-23 12:00:00
 description: Science fiction with a philosophical poise 
-tags: english fiction sci-fi
+tags: english fiction science
 categories: books
 ---
 

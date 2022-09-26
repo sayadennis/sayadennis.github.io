@@ -3,7 +3,7 @@ layout: post
 title: 息吹
 date:   2022-09-23 12:00:00
 description: 哲学的な問いを投げかけるSF
-tags: japanese fiction sci-fi
+tags: japanese fiction science
 categories: books
 ---
 
