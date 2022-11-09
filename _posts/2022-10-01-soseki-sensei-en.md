@@ -15,7 +15,7 @@ categories: books
 
 <hr>
 
-## A gem found in my late grandfather's bookshelf 
+### A gem found in my late grandfather's bookshelf 
 
 In my most recent trip home, I found a few books in my late grandfather's shelf that were irresistible. One of them was **Essays on Soseki-sensei** by Kazutoshi Hando. 
 
@@ -27,7 +27,7 @@ To add a fun fact, I've also read a book co-authored by Hando and Hayao Miyazaki
 
 <hr>
 
-## The honest and warm storytelling 
+### The honest and warm storytelling 
 
 In this book, Hando consults many written records and stories to consider (and sometimes speculate on) the life lived by the renowned and beloved Japanese writer, Soseki Natsume. Hando's detective work is truly astonishing - he studies not only every little bit of Soseki's works and essays, but also references any records of letters to his friends and family, scribbles he left on his books, and detailed historical context to tell interesting and sometimes humorous tales of Soseki. 
 
