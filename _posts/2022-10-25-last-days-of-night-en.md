@@ -25,7 +25,7 @@ Here's one that I recently read and absolutely adored.
 
 <hr>
 
-### Historical fiction that portrays the "current war" 
+### Historical fiction about the "current war" 
 
 The Last Days of Night by Graham Moore is a historical fiction based on a true story. The story is set in late-19th century Manhattan, where parts of the city is beginning to be lit by electricity rather than the longstanding gas lamps. The energy culminating from all the fear, excitement, and competition surrounding this new and otherworldly technology is palpable. No one really knows what electricity really is or how it works, including the inventors and manufacturers themselves. Despite the occasional electrocution accidents and accompanying concerns over the safety of the technology, there is no question that whoever seizes control of this technology will seize control of light itself. 
 
