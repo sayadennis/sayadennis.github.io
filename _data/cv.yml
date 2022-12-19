@@ -25,51 +25,52 @@
       institution: Feinberg School of Medicine, Northwestern University
       year: 2019 - present
       description:
-        - Implemented ML/DL models and data processing pipelines on large-scale (30+TB) biomedical data by utilizing parallelization and GPU computing (2 publications, 1 conference presentations) 
-        - Collaborated closely with 5+ physicians to consult and address their ML/DL research needs
-        - Streamlined knowledge-sharing for 10+ team members by data & compute protocols
-        - Converted complex clinical data to machine-readable formats by reconciling longitudinal records with duplicate or inconsistent contents
-        - Shared 5+ generalizable ML/DL pipelines on public repositories for fellow researchers
+        - Implemented ML/DL models and parallelized data processing pipelines on large-scale (30+TB) WGS data to develop a disease onset prediction model with 96 % accuracy 
+        - Processed and analyzed 30+ publicly available spatial transcriptomics datasets 
+        - Developed a text-mining pipeline to retrieve information from 3000+ oncology and pathology notes 
+        - Explored novel dimensionality reduction approaches informed by biological domain knowledge 
+        - Collaborated closely with 3+ physicians to identify and pursue opportunities for ML applications 
+        - Documented workflows on public repositories for transparency and reproducibility 
     
     - title: HPC Research Computing Consultant
       institution: Northwestern University IT
       year: 2022 - present
       description:
-        - Consulted researchers to identify and manage appropriate hardware and software resources to facilitate their computational workflows on Northwestern’s HPC
-        - Created tutorial videos to help new users navigate the HPC via the bash shell
-        - Surveyed the needs of ML/DL researchers to increase accessibility to the GPU infrastructure 
+        - Consulted researchers from 10+ departments to address their hardware and software needs and facilitate computational workflows on a high-performance compute cluster (HPC) 
+        - Taught 4 tutorials and workshops to help users get started with their workflows on the HPC 
+        - Developed scripts to map dependencies between software modules to assist with deprecation 
 
     - title: Machine Learning Summer Associate
       institution: Tempus Labs, Inc.
       year: 2022
       description:
-        - Developed ML models to predict the onset of 4 different types of cancer using structured EHRs and demonstrated their value through statistical evaluations
-        - Refined the data processing pipeline by experimentation of 30+ combinations of parameters
-        - Initiated an improved method for identification of diagnosis time point, eliminating data leakage
-        - Proposed a novel sampling approach to alleviate issues of class imbalance and data availability 
-        - Communicated research findings in team meetings
+        - Developed ML models to predict the onset of 4 different types of cancer using structured EHRs and demonstrated the value of the dataset through statistical evaluations 
+        - Refined the data processing pipeline by experimentation of 30+ combinations of parameters 
+        - Eliminated data leakage by initiating an improved method for diagnosis identification 
+        - Proposed a novel data sampling approach to alleviate issues of class imbalance and data availability 
+        - Presented research findings in team meetings 
     
     - title: Teaching Assistant
       institution: Statistics and Data Analysis for Life Science, Northwestern University
       year: 2020
       description:
-        - Guided 40+ students through statistical concepts and coding problems by adapting to their varying levels of experience
-        - Reported the students’ needs to the course instructor to improve course material
+        - Guided 40+ students with varying levels of experience through statistical and coding problems 
+        - Reported the students' needs to the course instructor to improve course material 
     
     - title: Research Technologist II
       institution: Department of Molecular Biosciences, Northwestern University
       year: 2017 - 2019
       description:
-        - Troubleshooted experimental assays by identifying the issues and providing alternatives
-        - Trained 2 new team members for reagent management and technical assays
-        - Maintained and managed communal resources such as reagents and supplies used by 10+ colleagues 
+        - Conducted biochemical and high-throughput sequencing experiments to study embryo development 
+        - Troubleshooted assays by identifying underlying issues and proposing alternative approaches 
+        - Trained 2 new team members on management of reagents and supplies used by 10+ colleagues 
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/sayadennis/classical_ml">classical-ml</a>
-      year: 2020
-      description: Simple and flexible classical ML module that can be used for recording baseline ML performance.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/sayadennis/classical_ml">classical-ml</a>
+#       year: 2020
+#       description: Simple and flexible classical ML module that can be used for recording baseline ML performance.
 
 - title: Volunteering Experience
   type: time_table
@@ -85,6 +86,9 @@
     - title: Founder & President
       institution: Northwestern Japanese Graduate Student Association
       year: 2022 - present
+      description:
+        - Started the first official Japanese Graduate Student Association at Northwestern University, funded by The Graduate School. 
+        - Organized quarterly gatherings with 30+ participants that offered a safe space as well as a networking opportunity for the Japanese community and their families. 
     
     - title: Service Chair
       institution: Graduate Women Across Northwestern
