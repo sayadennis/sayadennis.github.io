@@ -1,38 +1,46 @@
 ---
 layout: post
-title: 暗号解読
-date:   2022-10-10 12:00:00
-description: カエサルから近代コンピュータの暗号化まで、文字情報の秘匿化の歴史
-tags: japanese non-fiction history science
+title: ピダハン 〜「言語本能」を超える文化と世界観〜
+date:   2023-01-16 12:00:00
+description: アマゾンの狩猟採集民族と生活を共にした言語学・文化人類学者の記録
+tags: japanese non-fiction science
 categories: books
 ---
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/codebook.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/dont-sleep.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <hr>
 
-### 暗号化の歴史、壮絶な物語
+### 読んだ本を通して２０２２年を振り返ってみると
 
-以前紹介したサイモン・シン著「フェルマーの最終定理」がおもしろすぎて、熱が冷めないうちにと思い、迷わず次に行きました。今回のサイモン・シン著「暗号解読」は、フェルマーの本の２年後に出版された本で、人類の暗号化の歴史について書かれたノンフィクション本です。実は私、最初にこの本について知ったとき、「暗号化の歴史」なんてちょっと味気なさそう、、、というのが第一印象でした。仕事柄、暗号化についての基本的な知識はあるつもりだったのですが、それが一体どうやったら本一冊書けるほど面白くなるのか、全く想像つかず。しかし蓋を開けてみると、一冊の本にも収まりきらないほど、溢れんばかりのおもしろストーリーが詰まっていました。
+みなさん、あけましておめでとうございます！！今年の１２月はバタバタして、１年の振り返りもろくにする時間も持てずに気がついたら１月となってしまいましたが、振り返り大好き人間な私は、ちょっと遅れてでもと思って今月は２０２２年に思いを馳せています。どんな心に残る瞬間があったかな〜とか、誰と一緒に時間をたくさん過ごせたかな〜とか、苦戦したのはどんなことだったかな〜とか、新しくチャレンジしたことは何だろうな〜とか、幸福感溢れる気持ちになったのはどんなときだったかな〜とか、そんなことを考えるのが大好きなのです。
 
-暗号化、というとコンピューターを連想する人も多いかもしれませんが、実は、暗号化の歴史は、人類の文明の歴史と同じくらい古いものです。根本的なところでは、「暗号化」とは、「文字情報の秘匿化」とでも言いましょうか、文章の内容を他人にはわからないようにすることのことを指しています。もっとも歴史の古い暗号化の手法に「シーザー暗号」というものがありますが、この「シーザー」はかの有名な紀元前ローマの軍人、ユリウス・カエサルの名前であり、カエサルがこの暗号化を使ったことから命名されています。（「シーザー」は「カエサル」の英語読みです。スペルは"Caesar"）
-
-「暗号解読」に記されているのは、壮絶な、そして「味気なさそう」という第一印象に反して非常に人間的な、暗号の作り手（コードメーカー）と暗号解読者（コードブレーカー）の追いかけっこの歴史です。コードメーカーたちは常にその時代の最先端の、誰にも解読できない暗号を作り、コードブレーカーたちは、ときに趣味で、ときに政府の軍事作戦の一環として、誰にも解読できないとされた暗号を読み解いてきました。誰にも見られてはいけないメッセージ、そして本当は見てはいけないメッセージを見る必要性、、、そんな危なっかしい背景が伴う「暗号化」に面白い歴史のドラマが隠れているのは、よく考えてみたら当たり前のことかもしれないですね。
+これを考える上で結構面白い視点が、読んだ本を思い返すこと。良い本を読んでいたときは、全く違う世界に入り込んだり、今まで全く知らなかったことを学んだり、深く感動したり、今まで背景に溶け込んでいたものが新しい意味を帯びて浮かび上がってきたり、、、もしこの１年で全然違う本を読んでいたら、今の心の感じ方もまた違っていただろうなと真剣に思えるくらい、強く響いた本もたくさんあったと感じます。こうやって改めて振り返ると、出会えた本への感謝の気持ちでいっぱいになります。
 
 <hr>
 
-### 暗号化の技術面の概要わかるところがさらに良い
+### ジャングルで狩猟採集民族と共に生活した宣教師に開けた世界
 
-私は人間大好き人間（？）なので、どんなお話でもヒューマンドラマに強く心惹かれるのですが、サイモン・シン著「暗号解読」の最高な点は、壮絶なヒューマンドラマに加えて、テクニカルな側面も十分に説明してくれているところ。時代の最先端の暗号化がどのような手法でされていたか、またその時代のコードブレーカーたちがどのようにしてその暗号を解読したのかが、当時最先端の数学・統計・機械学など「サイエンスの歴史」的な部分と交えて紹介されています。
+_Don't Sleep, There Are Snakes_ is a work of nonfiction by Daniel L. Everett, who studied, over decades, the language and culture of a hunter-gatherer community in the Amazonian jungle called Piraha. 
 
-そんな中でも特に読んでいてテンションが上がったのは、第二次世界大戦で使われたドイツのエニグマ暗号の解読について。実はつい２〜３ヶ月前に、２０世紀の数学者アラン・チューリングのエニグマ解読についての映画「イミテーションゲーム」を観たばかりだったので、完全に個人的にタイムリーに感じられました笑。エニグマというのは、ドイツで作られた暗号化機械で、当時その暗号を解読することは何をどう頑張っても不可能とされていました。映画の中でもそんな話はされていたものの、「一体何をどうしたらそんなに難解な暗号ができたの！？」という好奇心にもちろん映画が応えてくれるはずもなく、、、しかしサイモン・シンはエニグマの内部をしっかりと図とともに解説してくれて、私の好奇心は大満足でした！
+Early in his career, Everett moves his entire family to a Piraha village as a missionary, and begins his excruciating yet profoundly eye-opening journey. As a missionary, his purpose is to translate the bible into the Pirahan language, but he faces mounting challenges at every step of the way. For starters, the Pirahan language is quite distinct from most of the currently documented languages of the world, which makes it extremely difficult to learn, let alone translate the bible. In addition to this, the extremely isolated jungle poses many physical challenges for Everett, including malaria (with no access to medicine or doctors), roaming taranturas, and an attack by an enourmous anaconda while traveling on a small motor boat. 
 
-<hr>
+Everett does an excellent job describing the struggles and frustrations of a field linguist, which is deeply fascinating in itself. However, what is truly exceptional about this book is that it gives the reader a glimpse of the shift in perspective that Everett might have experienced during his time with the Pirahas. 
 
-### 毎日使う暗号化のありがたみを感じる
+As a missionary, Everett's initial intention was to "educate" the Pirahas of the "truth" and to offer them "salvation". However, throughout his journey, there comes a point where he realizes the Pirahas do not need salvation; they are not lost. His story is so rich and profound that I cannot possibly summarize it simply here, but I would like to pull a quote from the final chapter to provide a snippet: 
 
-人類の文明が始まってから今日に至るまで、様々な暗号化が開発されて、その都度「解読不可能」とみなされては、当時のコードブレーカーたちに弱みを見つけられ、解読されてきました。この「追いかけっこ」は、数々の国、戦争、様々な学問分野、そして数え切れないほどの天才たちから成る歴史です。私たちが今使っている暗号化は、この歴史の賜物以外のなにものでもありません。自分の目の前にあるツールの背景に潜む数々の「ひと」の姿を垣間見た今、そのありがたみが何倍にも増して感じられます。暗号化に限らず、歴史を学ぶことは、こういうありがたみに直結するなあと、いつも感じています。
+<blockquote>
+    From the time we are born we try to simplify the world around us. For it is too complicated for us to navigate; […] In specific intellectual domains we call our attempts at simplification “hypotheses” and “theories”. Scientists invest their careers and energies in certain attempts at simplification. […] 
+
+    But this type of “elegance theorizing” (getting results that are “pretty” rather than particularly useful) began to satisfy me less and less. People who contribute to such programs usually see themselves as working toward a closer relationship to truth. But as the American pragmatist philosopher and psychologist William James reminded us, we shouldn’t take ourselves too seriously. […] 
+
+    The Pirahas are firmly committed to the pragmatic concept of utility. They don’t believe in a heaven above us, or a hell below us, or that any abstract cause is worth dying for. They give us an opportunity to consider what a life without absolutes, like righteousness or holiness and sin, could be like. And the vision is appealing. 
+
+    It is possible to live a life without the crutches of religion and truth? The Pirahas do so live. They share some of our concerns, of course, since many of our concerns derive from our biology, independent of our culture (our cultures attribute meanings to otherwise ineffable, but no less real, concerns). But they live most of their lives outside these concerns because they have independently discovered the usefulness of living one day at a time. The Pirahas simply make the immediate their focus of concentration, and thereby, at a single stroke, they eliminate huge sources of worry, fear, and despair that plague so many of us in Western societies. 
+</blockquote>
+
+Everett then goes on to talk about how the Pirahas have no craving for truth as a transcendental reality. Indeed, the concept has no place in their values. Their truth concerns catching a fish, rowing a canoe, laughing with your children, loving your brother, dying of malaria. He mentions that some anthropologists have used this fact to suggest that their culture is more primitive, but then leaves us with the question: Is it more sophisticated to look at the universe with worry, concern, and a belief that we can understand it all, or to enjoy life as it comes, recognizing the likely futility of looking for truth or god? 
