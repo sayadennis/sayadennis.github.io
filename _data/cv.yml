@@ -40,6 +40,15 @@
         - Taught 4 tutorials and workshops to help users get started with their workflows on the HPC 
         - Developed scripts to map dependencies between software modules to assist with deprecation 
 
+    - title: Machine Learning Engineer
+      institution: Evozyne, Inc.
+      year: 2023
+      description:
+        - Scaled out the existing protein-generative ML framework by implementing a distributed, population-based training feature for an optimized and systematic hyperparameter search
+        - Implemented temporal orchestration among Metaflow runs in a Kubernetes cluster via cloud storage
+        - Developed deployment-ready features included in the CI/CD pipelines and production release of the company’s ML software
+        - Collaborated closely with other software engineers, using version control (Git) to manage parallel development efforts and resolve conflicts efficiently
+
     - title: Machine Learning Summer Associate
       institution: Tempus Labs, Inc.
       year: 2022
