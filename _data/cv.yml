@@ -8,16 +8,6 @@
     - name: Languages
       value: English, Japanese
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Biomedical Informatics
-      institution: Northwestern University, Chicago, IL, USA
-      year: 2024 (exp.)
-    - title: BS in Environmental Sciences & Ecology
-      institution: Tokyo University, Tokyo, Japan
-      year: 2017
-
 - title: Professional Experience
   type: time_table
   contents:
@@ -80,6 +70,16 @@
 #     - title: <a href="https://github.com/sayadennis/classical_ml">classical-ml</a>
 #       year: 2020
 #       description: Simple and flexible classical ML module that can be used for recording baseline ML performance.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Biomedical Informatics
+      institution: Northwestern University, Chicago, IL, USA
+      year: 2025
+    - title: BS in Environmental Sciences & Ecology
+      institution: Tokyo University, Tokyo, Japan
+      year: 2017
 
 - title: Volunteering Experience
   type: time_table
