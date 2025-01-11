@@ -3,7 +3,9 @@ github_users:
 
 github_repos:
   - sayadennis/classical_ml
+  - sayadennis/methylation
+  - sayadennis/book-rec
+  - sayadennis/bookbot
   - sayadennis/amppd
   - sayadennis/bbcar
-  - sayadennis/recent_parity
-  - sayadennis/drug_response
+  - sayadennis/recent-parity
