@@ -18,17 +18,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in biomedical informatics in the [Luo Lab](https://labs.feinberg.northwestern.edu/luolab/) under [Feinberg School of Medicine](https://www.feinberg.northwestern.edu/) at Northwestern University in Chicago, IL. Feel free to message me via [LinkedIn](https://www.linkedin.com/in/saya-rene-dennis/) if you want to chat! 
+Feel free to message me via [LinkedIn](https://www.linkedin.com/in/saya-rene-dennis/) if you want to chat! 
 
-#### 👩‍💻 Professional Interests 
+##### 👩‍💻 Professional Interests 
 
 My interests are at the intersection of **bioinformatics** and **applications of ML/DL**. With my undergraduate training in experimental biology and my graduate career in bioinformatics and ML/DL, my strength lies in the ability to **address complex biological/biotechnological questions using cutting-edge computational methods**. Impact-driven, I am equally passionate about the **engineering aspects** of bioinformatics and ML/DL as I am about the **scientific aspects**. Through my two internship experiences as an ML scientist and ML engineer, I have gained hands-on experience in ML productionization, scaling, and model CI/CD pipelines. 
 
-#### 🤝 Who am I professionally?
+##### 🤝 Who am I professionally?
 
 I am a highly driven, curious, and collaborative worker. I find it rewarding when the quality of my work has a direct impact on my team/organization’s success. I find joy in continuous growth, and thrive in an environment where I can tackle new challenges. I love working in a team of people with diverse backgrounds and strengths. Through my experiences with managing student organizational leadership teams, I have developed a collaborative leadership style to play to each member's strengths.
 
-#### 🌱 Who am I personally?
+##### 🌱 Who am I personally?
 
 I am an avid reader and history enthusiast! I read very broadly, but have a soft spot for historical fictions and non-fiction works about technological history, anthropology, or sociology. I also love cooking (favorite cuisine: home-cooked Japanese!), hiking, and social sports like squash and climbing.
 
