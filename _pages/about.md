@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in the <a href='https://labs.feinberg.northwestern.edu/luolab/'>Luo Lab</a>, Northwestern University, Chicago, IL
+subtitle: PhD student in <a href='https://labs.feinberg.northwestern.edu/luolab/'>Dr Yuan Luo's Lab</a>, Northwestern University, Chicago, IL
 
 profile:
   align: right
@@ -14,15 +14,23 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in biomedical informatics in [Dr. Yuan Luo's lab](https://labs.feinberg.northwestern.edu/luolab/) under [Feinberg School of Medicine](https://www.feinberg.northwestern.edu/) at Northwestern University in Chicago, IL. My interests are in bioinformatics and applications of ML/DL. I am particularly excited in the engineering aspect of these domains, and am passionate about topics like deployment, productionization, scaling, distributed computing/processing, and CI/CD. I am also passionate about topics of reproducibility, generalizability and fairness of ML. Feel free to reach out to me via LinkedIn if you want to chat! 
+I am a PhD student in biomedical informatics in the [Luo Lab](https://labs.feinberg.northwestern.edu/luolab/) under [Feinberg School of Medicine](https://www.feinberg.northwestern.edu/) at Northwestern University in Chicago, IL. Feel free to message me via [LinkedIn](https://www.linkedin.com/in/saya-rene-dennis/) if you want to chat! 
 
-I am an impact-driven, curious, and collaborative worker. I find it rewarding when the quality of my work has a direct impact on my team/organization’s success. I find joy in continuous growth, and thrive in an environment where I can tackle new challenges. I love working in a team of people with diverse backgrounds and strengths. Through my experiences with managing student organizational leadership teams, I have developed a collaborative leadership style to play to each member’s strengths.
+### 👩‍💻 Professional Interests 
 
-Contrary to my professional interests, I am a big history nerd 🤓 My favorite book genre is historical fiction, my favorite cuisine is home-cooked Japanese (I'm born and raised there!), and I've been venturing out to drawing & painting recently. 
+My interests are at the intersection of **bioinformatics** and **applications of ML/DL**. With my undergraduate training in experimental biology and my graduate career in bioinformatics and ML/DL, my strength lies in the ability to **address complex biological/biotechnological questions using cutting-edge computational methods**. Impact-driven, I am equally passionate about the **engineering aspects** of bioinformatics and ML/DL as I am about the **scientific aspects**. Through my two internship experiences as an ML scientist and ML engineer, I have gained hands-on experience in ML productionization, scaling, and model CI/CD pipelines. 
+
+### 🤝 Who am I professionally?
+
+I am a highly driven, curious, and collaborative worker. I find it rewarding when the quality of my work has a direct impact on my team/organization’s success. I find joy in continuous growth, and thrive in an environment where I can tackle new challenges. I love working in a team of people with diverse backgrounds and strengths. Through my experiences with managing student organizational leadership teams, I have developed a collaborative leadership style to play to each member's strengths.
+
+### 🌱 Who am I personally?
+
+I am an avid reader and history enthusiast! I read very broadly, but have a soft spot for historical fictions and non-fiction works about technological history, anthropology, or sociology. I also love cooking (favorite cuisine: home-cooked Japanese!), hiking, and social sports like squash and climbing.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
