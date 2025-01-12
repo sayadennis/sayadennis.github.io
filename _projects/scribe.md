@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automated interview transcription
+title: Automated transcription
 description: Recording interviews to document family history
 img: assets/img/9.jpg
 importance: 1
