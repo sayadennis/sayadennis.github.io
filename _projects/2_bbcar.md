@@ -1,10 +1,11 @@
 ---
 layout: page
-title: BBCAR
+title: Genomic Aberrations in Benign Breast Disease
 description: Stratifying risk for breast cancer using genomic data from benign breast biopsies
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/bbcar_study_design.png
+importance: 2
 category: work
 ---
 
 Project page TBD
+
