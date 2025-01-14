@@ -9,7 +9,7 @@ category: work
 
 #### The Big Picture 
 
-How does DNA methylation—a critical epigenetic process—shape breast cancer development? Tumor-adjacent "normal" (AN) tissue often acts as a reference point for studying cancer-related changes, but is it truly normal? Could these epigenetic profiles hint at cancer predisposition, or are they altered in response to the tumor itself?
+What does DNA methylation—a critical epigenetic process—tell us about breast cancer development? Tumor-adjacent normal tissue often acts as a reference point for studying cancer-related changes, but is it truly normal? Some studies have shown that RNA expression of tumor-adjacent normal tissues resembles tumor in some ways. Do epigenetics show a similar trend? Moreover, could these epigenetic profiles hint at cancer predisposition, or are they altered in response to the tumor itself?
 
 #### What We Did
 
@@ -19,13 +19,13 @@ How does DNA methylation—a critical epigenetic process—shape breast cancer d
     </div>
 </div>
 
-To find answers, I studied DNA methylation across a "tumor proximity axis" (TPxA):
+To find answers, we studied DNA methylation profiles of four different tissue categories. These categories form a clear order in their "closeness" to tumor, leading us to define what we call the "tumor proximity axis" (TPxA), along which these categories can be placed:
 
-1. Healthy Donated Breast (HDB) – Samples from cancer-free donors.
-2. Contralateral Unaffected Breast (CUB) – Tissue farthest from the tumor.
-3. Ipsilateral Opposite Quadrant (OQ) – Tissue closer to the tumor, but not adjacent.
-4. Tumor-Adjacent Normal (AN) – Tissue right next to the tumor.
-5. Tumor (TU) – Cancer tissue itself.
+1. Tumor (TU) – Cancer tissue itself.
+2. Tumor-Adjacent Normal (AN) – Normal tissue around 3cm from the tumor.
+3. Ipsilateral Opposite Quadrant (OQ) – Normal tissue from the opposite quadrant of the same breast as the tumor.
+4. Contralateral Unaffected Breast (CUB) – Normal tissue from the opposite breast from the cancer.
+5. Healthy Donated Breast (HDB) – Healthy donated breast tissue from women with no cancer.
 
 Using Illumina’s Methylation EPICv1.0 BeadChip, methylation profiles were assayed for over 850,000 CpGs across the genome for 446 breast tissue samples from 251 women.
 
@@ -55,6 +55,5 @@ DNA methylation revealed striking relationships between the normal tissue catego
 
 #### Challenges & What I Learned
 
-One of the biggest challenges of this project was the analysis design. Having 5 categories of tissues, there are technically 10 different binary comparisons that you could make. We tried many different comparisons and eventually landed on the TPxA, but even then, we had to look at "differences of differences" sometimes to really get to what was happening in our data.
-
+One of the biggest challenges of this project was the analysis design. Having 5 categories of tissues, there are technically 10 different binary comparisons that you could make. We tried many different comparisons and eventually landed on the TPxA, but even then, we had to look at "differences of differences" sometimes to really get to what was happening in our data. There were many other challenges and exciting findings in this project, which I expect to be able to share soon when this work is published!
 
