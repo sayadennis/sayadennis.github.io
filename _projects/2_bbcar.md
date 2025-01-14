@@ -29,7 +29,7 @@ We analyzed whole-genome sequencing (WGS) data from 240 BBD samples, alongside a
 
 * Mutation Signatures: We identified 9 SBS, 1 DBS, and 3 ID signatures, some linked to DNA mismatch repair issues—a hallmark of cancer risk.
 * Copy Number Variations: Found hundreds of recurrent DNA changes, including a BRCA1 deletion that was specifically recurrent in the high-risk population.
-* Model Performance: Our models achieved a decent predictive accuracy (ROC-AUC ~0.60). But here’s the catch: about 20 samples were consistently misclassified, hinting that each sample's variability might be clouding the big picture.
+* Model Performance: Our models achieved a decent predictive accuracy (ROC-AUC ~0.60). But here’s the catch: 13 samples were consistently misclassified on all the folds. These samples did not show statistically significant correlations with patient age, library size, or biopsy year, suggesting some unknown sample variability that warrants further investigation.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
