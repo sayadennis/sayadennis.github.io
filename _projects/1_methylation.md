@@ -13,7 +13,11 @@ How does DNA methylation—a critical epigenetic process—shape breast cancer d
 
 #### What We Did
 
-![Sample Location](assets/img/sample_location_diagram.jpg)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sample_location_diagram.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 To find answers, I studied DNA methylation across a "tumor proximity axis" (TPxA):
 
@@ -27,7 +31,11 @@ Using Illumina’s Methylation EPICv1.0 BeadChip, methylation profiles were assa
 
 #### What We Found
 
-![Sankey](assets/img/dml_sankey.png)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/dml_sankey.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 DNA methylation revealed striking relationships between the normal tissue categories:
 
