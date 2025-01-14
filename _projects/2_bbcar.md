@@ -33,7 +33,7 @@ We analyzed whole-genome sequencing (WGS) data from 240 BBD samples, alongside a
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/bbcar-fig-for-website.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/bbcar-fig-for-website.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
