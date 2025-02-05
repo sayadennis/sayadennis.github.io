@@ -7,14 +7,6 @@ tags: english nonfiction
 categories: books
 ---
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/high-conflict.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<hr>
-
 After a tragic plane crash that took the lives of dozens, I see a news headline that the president blamed diversity policies for the crash. It reads that when asked for evidence, he responded, "I have common sense." I cringe, my chest tightening ––who would fall for such ridiculous rhetoric? Minutes later, I see a social media post attributing the accident to the president himself, who had removed a large part of air traffic control work force. This one draws me in for a few seconds longer.
 
 For many people living in the United States, such "fight or flight" responses to political topics feel familiar. The tensing of the body when you hear your relative bring up politics at a family party, and the doomscrolling spiral you somehow can't escape. 
